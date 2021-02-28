@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="moveit" title="moveit" src="/logo-full.svg" />
+  <img alt="moveit" src="public/logo-full.svg" />
 </div>
 
 <br />
@@ -19,6 +19,11 @@ npm run dev
 
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Deploy
+Deploy the project with [Vercel](https://vercel.com/)
+
+You can see: https://moveit-next-4tk4ex2d8-omateustavares.vercel.app/
 
 ## Layout
 The layout of this project is on Figma: [Link](https://www.figma.com/file/YgMWtzhYMBSSgvAEcU8pge/Move.it-1.0-(Copy))
